@@ -3,7 +3,7 @@
 import sys
 import threading
 import numpy
-import sys
+
 
 class Node:
     def __init__(self):
